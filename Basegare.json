@@ -1,0 +1,1537 @@
+[
+  {
+    "Origine IATA": "FRNTE",
+    "Origine": "NANTES",
+    "Concaténation": "NANTES ; FRNTE"
+  },
+  {
+    "Origine IATA": "ESBST",
+    "Origine": "BARCELONA SANTS",
+    "Concaténation": "BARCELONA SANTS ; ESBST"
+  },
+  {
+    "Origine IATA": "FRFAC",
+    "Origine": "FACTURE BIGANOS",
+    "Concaténation": "FACTURE BIGANOS ; FRFAC"
+  },
+  {
+    "Origine IATA": "FRXAC",
+    "Origine": "ARCACHON",
+    "Concaténation": "ARCACHON ; FRXAC"
+  },
+  {
+    "Origine IATA": "ESGRO",
+    "Origine": "GIRONA",
+    "Concaténation": "GIRONA ; ESGRO"
+  },
+  {
+    "Origine IATA": "ESFIR",
+    "Origine": "FIGUERES VILA TGV",
+    "Concaténation": "FIGUERES VILA TGV ; ESFIR"
+  },
+  {
+    "Origine IATA": "FRBZR",
+    "Origine": "BEZIERS",
+    "Concaténation": "BEZIERS ; FRBZR"
+  },
+  {
+    "Origine IATA": "FREAH",
+    "Origine": "CHAMPAGNE-ARDENNE",
+    "Concaténation": "CHAMPAGNE-ARDENNE ; FREAH"
+  },
+  {
+    "Origine IATA": "FRCCF",
+    "Origine": "CARCASSONNE",
+    "Concaténation": "CARCASSONNE ; FRCCF"
+  },
+  {
+    "Origine IATA": "FRACG",
+    "Origine": "DAX",
+    "Concaténation": "DAX ; FRACG"
+  },
+  {
+    "Origine IATA": "FRXNA",
+    "Origine": "NARBONNE",
+    "Concaténation": "NARBONNE ; FRXNA"
+  },
+  {
+    "Origine IATA": "FRAEE",
+    "Origine": "PAU",
+    "Concaténation": "PAU ; FRAEE"
+  },
+  {
+    "Origine IATA": "FRXYT",
+    "Origine": "TOULOUSE MATABIAU",
+    "Concaténation": "TOULOUSE MATABIAU ; FRXYT"
+  },
+  {
+    "Origine IATA": "FRXSY",
+    "Origine": "SETE",
+    "Concaténation": "SETE ; FRXSY"
+  },
+  {
+    "Origine IATA": "FRLDE",
+    "Origine": "LOURDES",
+    "Concaténation": "LOURDES ; FRLDE"
+  },
+  {
+    "Origine IATA": "FRXTB",
+    "Origine": "TARBES",
+    "Concaténation": "TARBES ; FRXTB"
+  },
+  {
+    "Origine IATA": "FRACR",
+    "Origine": "LAVAL",
+    "Concaténation": "LAVAL ; FRACR"
+  },
+  {
+    "Origine IATA": "FRLRT",
+    "Origine": "LORIENT",
+    "Concaténation": "LORIENT ; FRLRT"
+  },
+  {
+    "Origine IATA": "FRPMO",
+    "Origine": "PARIS (intramuros)",
+    "Concaténation": "PARIS (intramuros) ; FRPMO"
+  },
+  {
+    "Origine IATA": "FRBIQ",
+    "Origine": "BIARRITZ",
+    "Concaténation": "BIARRITZ ; FRBIQ"
+  },
+  {
+    "Origine IATA": "FRRNS",
+    "Origine": "RENNES",
+    "Concaténation": "RENNES ; FRRNS"
+  },
+  {
+    "Origine IATA": "FRBOJ",
+    "Origine": "BORDEAUX ST JEAN",
+    "Concaténation": "BORDEAUX ST JEAN ; FRBOJ"
+  },
+  {
+    "Origine IATA": "FRVNE",
+    "Origine": "VANNES",
+    "Concaténation": "VANNES ; FRVNE"
+  },
+  {
+    "Origine IATA": "FRXUY",
+    "Origine": "AURAY",
+    "Concaténation": "AURAY ; FRXUY"
+  },
+  {
+    "Origine IATA": "FRXJZ",
+    "Origine": "ST JEAN DE LUZ CIBOURE",
+    "Concaténation": "ST JEAN DE LUZ CIBOURE ; FRXJZ"
+  },
+  {
+    "Origine IATA": "FRBVE",
+    "Origine": "BRIVE LA GAILLARDE",
+    "Concaténation": "BRIVE LA GAILLARDE ; FRBVE"
+  },
+  {
+    "Origine IATA": "FRPLY",
+    "Origine": "PARIS (intramuros)",
+    "Concaténation": "PARIS (intramuros) ; FRPLY"
+  },
+  {
+    "Origine IATA": "FRFSI",
+    "Origine": "GOURDON",
+    "Concaténation": "GOURDON ; FRFSI"
+  },
+  {
+    "Origine IATA": "DEQKA",
+    "Origine": "KARLSRUHE HBF",
+    "Concaténation": "KARLSRUHE HBF ; DEQKA"
+  },
+  {
+    "Origine IATA": "FRAEG",
+    "Origine": "STRASBOURG",
+    "Concaténation": "STRASBOURG ; FRAEG"
+  },
+  {
+    "Origine IATA": "FRSOU",
+    "Origine": "SOUILLAC",
+    "Concaténation": "SOUILLAC ; FRSOU"
+  },
+  {
+    "Origine IATA": "FRBES",
+    "Origine": "BREST",
+    "Concaténation": "BREST ; FRBES"
+  },
+  {
+    "Origine IATA": "FRZAO",
+    "Origine": "CAHORS",
+    "Concaténation": "CAHORS ; FRZAO"
+  },
+  {
+    "Origine IATA": "FRGGP",
+    "Origine": "GUINGAMP",
+    "Concaténation": "GUINGAMP ; FRGGP"
+  },
+  {
+    "Origine IATA": "FRLAM",
+    "Origine": "LAMBALLE",
+    "Concaténation": "LAMBALLE ; FRLAM"
+  },
+  {
+    "Origine IATA": "FRMXN",
+    "Origine": "MORLAIX",
+    "Concaténation": "MORLAIX ; FRMXN"
+  },
+  {
+    "Origine IATA": "FRPLT",
+    "Origine": "PLOUARET TREGOR",
+    "Concaténation": "PLOUARET TREGOR ; FRPLT"
+  },
+  {
+    "Origine IATA": "FRXLD",
+    "Origine": "LANDERNEAU",
+    "Concaténation": "LANDERNEAU ; FRXLD"
+  },
+  {
+    "Origine IATA": "FRSBK",
+    "Origine": "ST BRIEUC",
+    "Concaténation": "ST BRIEUC ; FRSBK"
+  },
+  {
+    "Origine IATA": "DEKLT",
+    "Origine": "KAISERSLAUTERN HBF",
+    "Concaténation": "KAISERSLAUTERN HBF ; DEKLT"
+  },
+  {
+    "Origine IATA": "FRBQT",
+    "Origine": "FORBACH",
+    "Concaténation": "FORBACH ; FRBQT"
+  },
+  {
+    "Origine IATA": "DESGT",
+    "Origine": "STUTTGART HBF",
+    "Concaténation": "STUTTGART HBF ; DESGT"
+  },
+  {
+    "Origine IATA": "FRPST",
+    "Origine": "PARIS (intramuros)",
+    "Concaténation": "PARIS (intramuros) ; FRPST"
+  },
+  {
+    "Origine IATA": "FRPIS",
+    "Origine": "POITIERS",
+    "Concaténation": "POITIERS ; FRPIS"
+  },
+  {
+    "Origine IATA": "FRXCX",
+    "Origine": "CHATELLERAULT",
+    "Concaténation": "CHATELLERAULT ; FRXCX"
+  },
+  {
+    "Origine IATA": "FRDJU",
+    "Origine": "MASSY TGV",
+    "Concaténation": "MASSY TGV ; FRDJU"
+  },
+  {
+    "Origine IATA": "FRUIP",
+    "Origine": "QUIMPER",
+    "Concaténation": "QUIMPER ; FRUIP"
+  },
+  {
+    "Origine IATA": "FRACL",
+    "Origine": "ANGERS ST LAUD",
+    "Concaténation": "ANGERS ST LAUD ; FRACL"
+  },
+  {
+    "Origine IATA": "FRLPD",
+    "Origine": "LYON (intramuros)",
+    "Concaténation": "LYON (intramuros) ; FRLPD"
+  },
+  {
+    "Origine IATA": "FRLAB",
+    "Origine": "LES AUBRAIS ORLEANS",
+    "Concaténation": "LES AUBRAIS ORLEANS ; FRLAB"
+  },
+  {
+    "Origine IATA": "FRESL",
+    "Origine": "VENDOME VILLIERS SUR LOIR",
+    "Concaténation": "VENDOME VILLIERS SUR LOIR ; FRESL"
+  },
+  {
+    "Origine IATA": "FRPAZ",
+    "Origine": "PARIS (intramuros)",
+    "Concaténation": "PARIS (intramuros) ; FRPAZ"
+  },
+  {
+    "Origine IATA": "FRTGO",
+    "Origine": "FUTUROSCOPE",
+    "Concaténation": "FUTUROSCOPE ; FRTGO"
+  },
+  {
+    "Origine IATA": "FRFNI",
+    "Origine": "NIMES",
+    "Concaténation": "NIMES ; FRFNI"
+  },
+  {
+    "Origine IATA": "FRMPL",
+    "Origine": "MONTPELLIER SAINT-ROCH",
+    "Concaténation": "MONTPELLIER SAINT-ROCH ; FRMPL"
+  },
+  {
+    "Origine IATA": "FRVLA",
+    "Origine": "VALENCE TGV RHONE-ALPES SUD",
+    "Concaténation": "VALENCE TGV RHONE-ALPES SUD ; FRVLA"
+  },
+  {
+    "Origine IATA": "FRAVG",
+    "Origine": "AVIGNON TGV",
+    "Concaténation": "AVIGNON TGV ; FRAVG"
+  },
+  {
+    "Origine IATA": "FRAET",
+    "Origine": "LE MANS",
+    "Concaténation": "LE MANS ; FRAET"
+  },
+  {
+    "Origine IATA": "FRLLE",
+    "Origine": "LILLE (intramuros)",
+    "Concaténation": "LILLE (intramuros) ; FRLLE"
+  },
+  {
+    "Origine IATA": "DEAGB",
+    "Origine": "AUGSBURG HBF",
+    "Concaténation": "AUGSBURG HBF ; DEAGB"
+  },
+  {
+    "Origine IATA": "FRMLV",
+    "Origine": "MARNE LA VALLEE CHESSY",
+    "Concaténation": "MARNE LA VALLEE CHESSY ; FRMLV"
+  },
+  {
+    "Origine IATA": "FRMLW",
+    "Origine": "AEROPORT CDG2 TGV ROISSY",
+    "Concaténation": "AEROPORT CDG2 TGV ROISSY ; FRMLW"
+  },
+  {
+    "Origine IATA": "DEBEG",
+    "Origine": "MUENCHEN HBF",
+    "Concaténation": "MUENCHEN HBF ; DEBEG"
+  },
+  {
+    "Origine IATA": "DEQUL",
+    "Origine": "ULM HBF",
+    "Concaténation": "ULM HBF ; DEQUL"
+  },
+  {
+    "Origine IATA": "FRXBF",
+    "Origine": "BELLEGARDE",
+    "Concaténation": "BELLEGARDE ; FRXBF"
+  },
+  {
+    "Origine IATA": "FRANG",
+    "Origine": "ANGOULEME",
+    "Concaténation": "ANGOULEME ; FRANG"
+  },
+  {
+    "Origine IATA": "BEBMI",
+    "Origine": "BRUXELLES MIDI BRUSSEL ZUID",
+    "Concaténation": "BRUXELLES MIDI BRUSSEL ZUID ; BEBMI"
+  },
+  {
+    "Origine IATA": "FREAM",
+    "Origine": "LORRAINE TGV",
+    "Concaténation": "LORRAINE TGV ; FREAM"
+  },
+  {
+    "Origine IATA": "FRNVS",
+    "Origine": "NEVERS",
+    "Concaténation": "NEVERS ; FRNVS"
+  },
+  {
+    "Origine IATA": "FRRIO",
+    "Origine": "RIOM CHATEL GUYON",
+    "Concaténation": "RIOM CHATEL GUYON ; FRRIO"
+  },
+  {
+    "Origine IATA": "FRXMU",
+    "Origine": "MOULINS SUR ALLIER",
+    "Concaténation": "MOULINS SUR ALLIER ; FRXMU"
+  },
+  {
+    "Origine IATA": "FRXRN",
+    "Origine": "REDON",
+    "Concaténation": "REDON ; FRXRN"
+  },
+  {
+    "Origine IATA": "FRHHD",
+    "Origine": "ST ETIENNE CHATEAUCREUX",
+    "Concaténation": "ST ETIENNE CHATEAUCREUX ; FRHHD"
+  },
+  {
+    "Origine IATA": "FRXVT",
+    "Origine": "VITRE",
+    "Concaténation": "VITRE ; FRXVT"
+  },
+  {
+    "Origine IATA": "FRSBG",
+    "Origine": "SARREBOURG",
+    "Concaténation": "SARREBOURG ; FRSBG"
+  },
+  {
+    "Origine IATA": "FRENC",
+    "Origine": "NANCY",
+    "Concaténation": "NANCY ; FRENC"
+  },
+  {
+    "Origine IATA": "FRAIE",
+    "Origine": "AIX EN PROVENCE TGV",
+    "Concaténation": "AIX EN PROVENCE TGV ; FRAIE"
+  },
+  {
+    "Origine IATA": "FRAGF",
+    "Origine": "AGEN",
+    "Concaténation": "AGEN ; FRAGF"
+  },
+  {
+    "Origine IATA": "FRLPE",
+    "Origine": "LYON (intramuros)",
+    "Concaténation": "LYON (intramuros) ; FRLPE"
+  },
+  {
+    "Origine IATA": "FRJDQ",
+    "Origine": "LYON-SAINT EXUPERY TGV",
+    "Concaténation": "LYON-SAINT EXUPERY TGV ; FRJDQ"
+  },
+  {
+    "Origine IATA": "FRCMF",
+    "Origine": "CHAMBERY CHALLES LES EAUX",
+    "Concaténation": "CHAMBERY CHALLES LES EAUX ; FRCMF"
+  },
+  {
+    "Origine IATA": "FRMLT",
+    "Origine": "MACON LOCHE TGV",
+    "Concaténation": "MACON LOCHE TGV ; FRMLT"
+  },
+  {
+    "Origine IATA": "FRGFI",
+    "Origine": "ORTHEZ",
+    "Concaténation": "ORTHEZ ; FRGFI"
+  },
+  {
+    "Origine IATA": "FRDIE",
+    "Origine": "DIE",
+    "Concaténation": "DIE ; FRDIE"
+  },
+  {
+    "Origine IATA": "FRIGZ",
+    "Origine": "MONTDAUPHIN GUILLESTRE",
+    "Concaténation": "MONTDAUPHIN GUILLESTRE ; FRIGZ"
+  },
+  {
+    "Origine IATA": "FRVDY",
+    "Origine": "VEYNES DEVOLUY",
+    "Concaténation": "VEYNES DEVOLUY ; FRVDY"
+  },
+  {
+    "Origine IATA": "FRXSH",
+    "Origine": "ST PIERRE DES CORPS",
+    "Concaténation": "ST PIERRE DES CORPS ; FRXSH"
+  },
+  {
+    "Origine IATA": "FRTJA",
+    "Origine": "BELFORT-MONTBELIARD TGV",
+    "Concaténation": "BELFORT-MONTBELIARD TGV ; FRTJA"
+  },
+  {
+    "Origine IATA": "FRAFW",
+    "Origine": "TOURS",
+    "Concaténation": "TOURS ; FRAFW"
+  },
+  {
+    "Origine IATA": "FRMSC",
+    "Origine": "MARSEILLE ST CHARLES",
+    "Concaténation": "MARSEILLE ST CHARLES ; FRMSC"
+  },
+  {
+    "Origine IATA": "FRACN",
+    "Origine": "SAUMUR",
+    "Concaténation": "SAUMUR ; FRACN"
+  },
+  {
+    "Origine IATA": "FRBOU",
+    "Origine": "BOURGES",
+    "Concaténation": "BOURGES ; FRBOU"
+  },
+  {
+    "Origine IATA": "FRTLN",
+    "Origine": "TOULON",
+    "Concaténation": "TOULON ; FRTLN"
+  },
+  {
+    "Origine IATA": "FRXSK",
+    "Origine": "ST RAPHAEL VALESCURE",
+    "Concaténation": "ST RAPHAEL VALESCURE ; FRXSK"
+  },
+  {
+    "Origine IATA": "FRAAW",
+    "Origine": "UZERCHE",
+    "Concaténation": "UZERCHE ; FRAAW"
+  },
+  {
+    "Origine IATA": "FRAGQ",
+    "Origine": "LIMOGES BENEDICTINS",
+    "Concaténation": "LIMOGES BENEDICTINS ; FRAGQ"
+  },
+  {
+    "Origine IATA": "FRFMN",
+    "Origine": "ISSOUDUN",
+    "Concaténation": "ISSOUDUN ; FRFMN"
+  },
+  {
+    "Origine IATA": "FRRNE",
+    "Origine": "ROANNE",
+    "Concaténation": "ROANNE ; FRRNE"
+  },
+  {
+    "Origine IATA": "FRSGF",
+    "Origine": "ST GERMAIN DES FOSSES",
+    "Concaténation": "ST GERMAIN DES FOSSES ; FRSGF"
+  },
+  {
+    "Origine IATA": "FRXAG",
+    "Origine": "AGDE",
+    "Concaténation": "AGDE ; FRXAG"
+  },
+  {
+    "Origine IATA": "FRXVZ",
+    "Origine": "VIERZON VILLE",
+    "Concaténation": "VIERZON VILLE ; FRXVZ"
+  },
+  {
+    "Origine IATA": "FRSUF",
+    "Origine": "MONTPELLIER SUD DE FRANCE",
+    "Concaténation": "MONTPELLIER SUD DE FRANCE ; FRSUF"
+  },
+  {
+    "Origine IATA": "FRAEK",
+    "Origine": "MULHOUSE VILLE",
+    "Concaténation": "MULHOUSE VILLE ; FRAEK"
+  },
+  {
+    "Origine IATA": "FRTJB",
+    "Origine": "BESANCON - F COMTE TGV",
+    "Concaténation": "BESANCON - F COMTE TGV ; FRTJB"
+  },
+  {
+    "Origine IATA": "FRMAZ",
+    "Origine": "MIRAMAS",
+    "Concaténation": "MIRAMAS ; FRMAZ"
+  },
+  {
+    "Origine IATA": "FRVAF",
+    "Origine": "VALENCE VILLE",
+    "Concaténation": "VALENCE VILLE ; FRVAF"
+  },
+  {
+    "Origine IATA": "CHGVA",
+    "Origine": "GENEVE",
+    "Concaténation": "GENEVE ; CHGVA"
+  },
+  {
+    "Origine IATA": "FRAGR",
+    "Origine": "MODANE",
+    "Concaténation": "MODANE ; FRAGR"
+  },
+  {
+    "Origine IATA": "FRNIT",
+    "Origine": "NIORT",
+    "Concaténation": "NIORT ; FRNIT"
+  },
+  {
+    "Origine IATA": "FREMR",
+    "Origine": "JONZAC",
+    "Concaténation": "JONZAC ; FREMR"
+  },
+  {
+    "Origine IATA": "FRRCO",
+    "Origine": "ROCHEFORT",
+    "Concaténation": "ROCHEFORT ; FRRCO"
+  },
+  {
+    "Origine IATA": "FRNIC",
+    "Origine": "NICE VILLE",
+    "Concaténation": "NICE VILLE ; FRNIC"
+  },
+  {
+    "Origine IATA": "FRXST",
+    "Origine": "SAINTES",
+    "Concaténation": "SAINTES ; FRXST"
+  },
+  {
+    "Origine IATA": "DEFRH",
+    "Origine": "FRANKFURT MAIN HBF",
+    "Concaténation": "FRANKFURT MAIN HBF ; DEFRH"
+  },
+  {
+    "Origine IATA": "FRFTA",
+    "Origine": "CAUSSADE TARN ET GARONNE",
+    "Concaténation": "CAUSSADE TARN ET GARONNE ; FRFTA"
+  },
+  {
+    "Origine IATA": "DEMHG",
+    "Origine": "MANNHEIM HBF",
+    "Concaténation": "MANNHEIM HBF ; DEMHG"
+  },
+  {
+    "Origine IATA": "DEZCC",
+    "Origine": "BADEN BADEN",
+    "Concaténation": "BADEN BADEN ; DEZCC"
+  },
+  {
+    "Origine IATA": "FRXMW",
+    "Origine": "MONTAUBAN VILLE BOURBON",
+    "Concaténation": "MONTAUBAN VILLE BOURBON ; FRXMW"
+  },
+  {
+    "Origine IATA": "FRXAT",
+    "Origine": "ANTIBES",
+    "Concaténation": "ANTIBES ; FRXAT"
+  },
+  {
+    "Origine IATA": "FRXCD",
+    "Origine": "CHALON SUR SAONE",
+    "Concaténation": "CHALON SUR SAONE ; FRXCD"
+  },
+  {
+    "Origine IATA": "FRCHR",
+    "Origine": "CHATEAUROUX",
+    "Concaténation": "CHATEAUROUX ; FRCHR"
+  },
+  {
+    "Origine IATA": "FRBDT",
+    "Origine": "RETHEL",
+    "Concaténation": "RETHEL ; FRBDT"
+  },
+  {
+    "Origine IATA": "FRRHE",
+    "Origine": "REIMS",
+    "Concaténation": "REIMS ; FRRHE"
+  },
+  {
+    "Origine IATA": "FRXCZ",
+    "Origine": "CHARLEVILLE MEZIERES",
+    "Concaténation": "CHARLEVILLE MEZIERES ; FRXCZ"
+  },
+  {
+    "Origine IATA": "FRFMT",
+    "Origine": "ARGENTON SUR CREUSE",
+    "Concaténation": "ARGENTON SUR CREUSE ; FRFMT"
+  },
+  {
+    "Origine IATA": "FRLST",
+    "Origine": "LA SOUTERRAINE",
+    "Concaténation": "LA SOUTERRAINE ; FRLST"
+  },
+  {
+    "Origine IATA": "CHAJP",
+    "Origine": "BASEL SBB",
+    "Concaténation": "BASEL SBB ; CHAJP"
+  },
+  {
+    "Origine IATA": "FRPGF",
+    "Origine": "PERPIGNAN",
+    "Concaténation": "PERPIGNAN ; FRPGF"
+  },
+  {
+    "Origine IATA": "FRAEF",
+    "Origine": "HENDAYE",
+    "Concaténation": "HENDAYE ; FRAEF"
+  },
+  {
+    "Origine IATA": "FRXBY",
+    "Origine": "BAYONNE",
+    "Concaténation": "BAYONNE ; FRXBY"
+  },
+  {
+    "Origine IATA": "FREAJ",
+    "Origine": "MEUSE TGV",
+    "Concaténation": "MEUSE TGV ; FREAJ"
+  },
+  {
+    "Origine IATA": "FRTHP",
+    "Origine": "TGV HAUTE PICARDIE",
+    "Concaténation": "TGV HAUTE PICARDIE ; FRTHP"
+  },
+  {
+    "Origine IATA": "FRXOG",
+    "Origine": "ORANGE",
+    "Concaténation": "ORANGE ; FRXOG"
+  },
+  {
+    "Origine IATA": "FRSNR",
+    "Origine": "ST NAZAIRE",
+    "Concaténation": "ST NAZAIRE ; FRSNR"
+  },
+  {
+    "Origine IATA": "FRXAI",
+    "Origine": "AIX LES BAINS LE REVARD",
+    "Concaténation": "AIX LES BAINS LE REVARD ; FRXAI"
+  },
+  {
+    "Origine IATA": "FRABA",
+    "Origine": "DIJON VILLE",
+    "Concaténation": "DIJON VILLE ; FRABA"
+  },
+  {
+    "Origine IATA": "FRAEJ",
+    "Origine": "COLMAR",
+    "Concaténation": "COLMAR ; FRAEJ"
+  },
+  {
+    "Origine IATA": "FRADE",
+    "Origine": "METZ VILLE",
+    "Concaténation": "METZ VILLE ; FRADE"
+  },
+  {
+    "Origine IATA": "FRADI",
+    "Origine": "DUNKERQUE",
+    "Concaténation": "DUNKERQUE ; FRADI"
+  },
+  {
+    "Origine IATA": "FRXBH",
+    "Origine": "BETHUNE",
+    "Concaténation": "BETHUNE ; FRXBH"
+  },
+  {
+    "Origine IATA": "FRXBV",
+    "Origine": "BEAUNE",
+    "Concaténation": "BEAUNE ; FRXBV"
+  },
+  {
+    "Origine IATA": "FRXRO",
+    "Origine": "LA ROCHE SUR YON",
+    "Concaténation": "LA ROCHE SUR YON ; FRXRO"
+  },
+  {
+    "Origine IATA": "FRXRS",
+    "Origine": "LES ARCS DRAGUIGNAN",
+    "Concaténation": "LES ARCS DRAGUIGNAN ; FRXRS"
+  },
+  {
+    "Origine IATA": "FRQRV",
+    "Origine": "ARRAS",
+    "Concaténation": "ARRAS ; FRQRV"
+  },
+  {
+    "Origine IATA": "FRXCC",
+    "Origine": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "Concaténation": "LE CREUSOT MONTCEAU MONTCHANIN ; FRXCC"
+  },
+  {
+    "Origine IATA": "FREGU",
+    "Origine": "LE CROISIC",
+    "Concaténation": "LE CROISIC ; FREGU"
+  },
+  {
+    "Origine IATA": "FRHLB",
+    "Origine": "ISSOIRE",
+    "Concaténation": "ISSOIRE ; FRHLB"
+  },
+  {
+    "Origine IATA": "FRARV",
+    "Origine": "ARVANT",
+    "Concaténation": "ARVANT ; FRARV"
+  },
+  {
+    "Origine IATA": "FRHLE",
+    "Origine": "BRASSAC LES MINES STE FLORINE",
+    "Concaténation": "BRASSAC LES MINES STE FLORINE ; FRHLE"
+  },
+  {
+    "Origine IATA": "FRIMW",
+    "Origine": "ST FLOUR CHAUDES AIGUES",
+    "Concaténation": "ST FLOUR CHAUDES AIGUES ; FRIMW"
+  },
+  {
+    "Origine IATA": "FRMAU",
+    "Origine": "MILLAU",
+    "Concaténation": "MILLAU ; FRMAU"
+  },
+  {
+    "Origine IATA": "FRCFE",
+    "Origine": "CLERMONT FERRAND",
+    "Concaténation": "CLERMONT FERRAND ; FRCFE"
+  },
+  {
+    "Origine IATA": "FRINC",
+    "Origine": "AUMONT AUBRAC",
+    "Concaténation": "AUMONT AUBRAC ; FRINC"
+  },
+  {
+    "Origine IATA": "FRXCE",
+    "Origine": "CERBERE",
+    "Concaténation": "CERBERE ; FRXCE"
+  },
+  {
+    "Origine IATA": "FRXPV",
+    "Origine": "PORT VENDRES VILLE",
+    "Concaténation": "PORT VENDRES VILLE ; FRXPV"
+  },
+  {
+    "Origine IATA": "FRINB",
+    "Origine": "ST CHELY D'APCHER",
+    "Concaténation": "ST CHELY D'APCHER ; FRINB"
+  },
+  {
+    "Origine IATA": "FRXVR",
+    "Origine": "ST MICHEL VALLOIRE",
+    "Concaténation": "ST MICHEL VALLOIRE ; FRXVR"
+  },
+  {
+    "Origine IATA": "FRNEU",
+    "Origine": "NEUSSARGUES",
+    "Concaténation": "NEUSSARGUES ; FRNEU"
+  },
+  {
+    "Origine IATA": "FRINO",
+    "Origine": "TOURNEMIRE ROQUEFORT",
+    "Concaténation": "TOURNEMIRE ROQUEFORT ; FRINO"
+  },
+  {
+    "Origine IATA": "FRXMK",
+    "Origine": "MONTELIMAR GARE SNCF",
+    "Concaténation": "MONTELIMAR GARE SNCF ; FRXMK"
+  },
+  {
+    "Origine IATA": "FRIMG",
+    "Origine": "LE BOUSQUET D'ORB",
+    "Concaténation": "LE BOUSQUET D'ORB ; FRIMG"
+  },
+  {
+    "Origine IATA": "FRINN",
+    "Origine": "ST ROME DE CERNON",
+    "Concaténation": "ST ROME DE CERNON ; FRINN"
+  },
+  {
+    "Origine IATA": "FRINM",
+    "Origine": "ST GEORGES DE LUZENCON",
+    "Concaténation": "ST GEORGES DE LUZENCON ; FRINM"
+  },
+  {
+    "Origine IATA": "FRINJ",
+    "Origine": "CAMPAGNAC ST GENIEZ",
+    "Concaténation": "CAMPAGNAC ST GENIEZ ; FRINJ"
+  },
+  {
+    "Origine IATA": "FRSVC",
+    "Origine": "SEVERAC LE CHATEAU",
+    "Concaténation": "SEVERAC LE CHATEAU ; FRSVC"
+  },
+  {
+    "Origine IATA": "FRINE",
+    "Origine": "MARVEJOLS",
+    "Concaténation": "MARVEJOLS ; FRINE"
+  },
+  {
+    "Origine IATA": "FRHGU",
+    "Origine": "MACON VILLE",
+    "Concaténation": "MACON VILLE ; FRHGU"
+  },
+  {
+    "Origine IATA": "FRXTH",
+    "Origine": "THIONVILLE",
+    "Concaténation": "THIONVILLE ; FRXTH"
+  },
+  {
+    "Origine IATA": "LULUX",
+    "Origine": "LUXEMBOURG",
+    "Concaténation": "LUXEMBOURG ; LULUX"
+  },
+  {
+    "Origine IATA": "FRXBK",
+    "Origine": "BOURG EN BRESSE",
+    "Concaténation": "BOURG EN BRESSE ; FRXBK"
+  },
+  {
+    "Origine IATA": "FRGNB",
+    "Origine": "GRENOBLE",
+    "Concaténation": "GRENOBLE ; FRGNB"
+  },
+  {
+    "Origine IATA": "FRJCA",
+    "Origine": "CANNES",
+    "Concaténation": "CANNES ; FRJCA"
+  },
+  {
+    "Origine IATA": "FRNCY",
+    "Origine": "ANNECY",
+    "Concaténation": "ANNECY ; FRNCY"
+  },
+  {
+    "Origine IATA": "FRXDN",
+    "Origine": "DOUAI",
+    "Concaténation": "DOUAI ; FRXDN"
+  },
+  {
+    "Origine IATA": "FRECO",
+    "Origine": "QUIMPERLE",
+    "Concaténation": "QUIMPERLE ; FRECO"
+  },
+  {
+    "Origine IATA": "FRXZP",
+    "Origine": "NIMES PONT DU GARD",
+    "Concaténation": "NIMES PONT DU GARD ; FRXZP"
+  },
+  {
+    "Origine IATA": "CHAGL",
+    "Origine": "VALLORBE",
+    "Concaténation": "VALLORBE ; CHAGL"
+  },
+  {
+    "Origine IATA": "CHAJF",
+    "Origine": "LAUSANNE",
+    "Concaténation": "LAUSANNE ; CHAJF"
+  },
+  {
+    "Origine IATA": "FRFRA",
+    "Origine": "FRASNE",
+    "Concaténation": "FRASNE ; FRFRA"
+  },
+  {
+    "Origine IATA": "FRPBE",
+    "Origine": "PARIS (intramuros)",
+    "Concaténation": "PARIS (intramuros) ; FRPBE"
+  },
+  {
+    "Origine IATA": "FRVHY",
+    "Origine": "VICHY",
+    "Concaténation": "VICHY ; FRVHY"
+  },
+  {
+    "Origine IATA": "FRFSD",
+    "Origine": "ASSIER",
+    "Concaténation": "ASSIER ; FRFSD"
+  },
+  {
+    "Origine IATA": "FRFST",
+    "Origine": "ST CHRISTOPHE",
+    "Concaténation": "ST CHRISTOPHE ; FRFST"
+  },
+  {
+    "Origine IATA": "FRRDZ",
+    "Origine": "RODEZ",
+    "Concaténation": "RODEZ ; FRRDZ"
+  },
+  {
+    "Origine IATA": "FRVZD",
+    "Origine": "VIVIEZ DECAZEVILLE",
+    "Concaténation": "VIVIEZ DECAZEVILLE ; FRVZD"
+  },
+  {
+    "Origine IATA": "FRLRH",
+    "Origine": "LA ROCHELLE VILLE",
+    "Concaténation": "LA ROCHELLE VILLE ; FRLRH"
+  },
+  {
+    "Origine IATA": "FRAES",
+    "Origine": "AVIGNON CENTRE",
+    "Concaténation": "AVIGNON CENTRE ; FRAES"
+  },
+  {
+    "Origine IATA": "DEANL",
+    "Origine": "LAHR SCHWARZW",
+    "Concaténation": "LAHR SCHWARZW ; DEANL"
+  },
+  {
+    "Origine IATA": "DEZPA",
+    "Origine": "OFFENBOURG/OFFENBURG",
+    "Concaténation": "OFFENBOURG/OFFENBURG ; DEZPA"
+  },
+  {
+    "Origine IATA": "DEFGB",
+    "Origine": "FREIBURG BREISGAU HBF",
+    "Concaténation": "FREIBURG BREISGAU HBF ; DEFGB"
+  },
+  {
+    "Origine IATA": "FRMTJ",
+    "Origine": "MONTREJEAU GOURDAN POLIGNAN",
+    "Concaténation": "MONTREJEAU GOURDAN POLIGNAN ; FRMTJ"
+  },
+  {
+    "Origine IATA": "FRPNO",
+    "Origine": "PARIS (intramuros)",
+    "Concaténation": "PARIS (intramuros) ; FRPNO"
+  },
+  {
+    "Origine IATA": "FRACE",
+    "Origine": "DOLE VILLE",
+    "Concaténation": "DOLE VILLE ; FRACE"
+  },
+  {
+    "Origine IATA": "FRMCD",
+    "Origine": "MOUCHARD",
+    "Concaténation": "MOUCHARD ; FRMCD"
+  },
+  {
+    "Origine IATA": "FRFPH",
+    "Origine": "ST GAUDENS",
+    "Concaténation": "ST GAUDENS ; FRFPH"
+  },
+  {
+    "Origine IATA": "FRAEB",
+    "Origine": "BOULOGNE VILLE",
+    "Concaténation": "BOULOGNE VILLE ; FRAEB"
+  },
+  {
+    "Origine IATA": "FRSTH",
+    "Origine": "CALAIS FRETHUN",
+    "Concaténation": "CALAIS FRETHUN ; FRSTH"
+  },
+  {
+    "Origine IATA": "FRFCJ",
+    "Origine": "LA TESTE",
+    "Concaténation": "LA TESTE ; FRFCJ"
+  },
+  {
+    "Origine IATA": "CHAJD",
+    "Origine": "ZUERICH HB",
+    "Concaténation": "ZUERICH HB ; CHAJD"
+  },
+  {
+    "Origine IATA": "FRHZA",
+    "Origine": "ARLES",
+    "Concaténation": "ARLES ; FRHZA"
+  },
+  {
+    "Origine IATA": "ITMPG",
+    "Origine": "MILANO P GARIBALDI",
+    "Concaténation": "MILANO P GARIBALDI ; ITMPG"
+  },
+  {
+    "Origine IATA": "ITOCS",
+    "Origine": "OULX CESANA CLAV SESTRIERE",
+    "Concaténation": "OULX CESANA CLAV SESTRIERE ; ITOCS"
+  },
+  {
+    "Origine IATA": "FREIP",
+    "Origine": "SURGERES",
+    "Concaténation": "SURGERES ; FREIP"
+  },
+  {
+    "Origine IATA": "FRHQN",
+    "Origine": "NURIEUX",
+    "Concaténation": "NURIEUX ; FRHQN"
+  },
+  {
+    "Origine IATA": "FRLCN",
+    "Origine": "LUCON",
+    "Concaténation": "LUCON ; FRLCN"
+  },
+  {
+    "Origine IATA": "FRHPN",
+    "Origine": "ST JEAN DE MAURIENNE ARVAN",
+    "Concaténation": "ST JEAN DE MAURIENNE ARVAN ; FRHPN"
+  },
+  {
+    "Origine IATA": "FRMBC",
+    "Origine": "MARSEILLE BLANCARDE",
+    "Concaténation": "MARSEILLE BLANCARDE ; FRMBC"
+  },
+  {
+    "Origine IATA": "FRLNZ",
+    "Origine": "LANNEMEZAN",
+    "Concaténation": "LANNEMEZAN ; FRLNZ"
+  },
+  {
+    "Origine IATA": "FREGR",
+    "Origine": "PORNICHET",
+    "Concaténation": "PORNICHET ; FREGR"
+  },
+  {
+    "Origine IATA": "FRRSP",
+    "Origine": "ROSPORDEN",
+    "Concaténation": "ROSPORDEN ; FRRSP"
+  },
+  {
+    "Origine IATA": "FRXTD",
+    "Origine": "ST DIE DES VOSGES",
+    "Concaténation": "ST DIE DES VOSGES ; FRXTD"
+  },
+  {
+    "Origine IATA": "FRSAB",
+    "Origine": "SABLE SUR SARTHE",
+    "Concaténation": "SABLE SUR SARTHE ; FRSAB"
+  },
+  {
+    "Origine IATA": "FRXMR",
+    "Origine": "MARMANDE",
+    "Concaténation": "MARMANDE ; FRXMR"
+  },
+  {
+    "Origine IATA": "FREJC",
+    "Origine": "ST MAIXENT DEUX SEVRES",
+    "Concaténation": "ST MAIXENT DEUX SEVRES ; FREJC"
+  },
+  {
+    "Origine IATA": "FRFPU",
+    "Origine": "SAVERDUN",
+    "Concaténation": "SAVERDUN ; FRFPU"
+  },
+  {
+    "Origine IATA": "FRFPW",
+    "Origine": "AUTERIVE",
+    "Concaténation": "AUTERIVE ; FRFPW"
+  },
+  {
+    "Origine IATA": "FRFQF",
+    "Origine": "PORTE PUYMORENS",
+    "Concaténation": "PORTE PUYMORENS ; FRFQF"
+  },
+  {
+    "Origine IATA": "FRFQH",
+    "Origine": "MERENS LES VALS",
+    "Concaténation": "MERENS LES VALS ; FRFQH"
+  },
+  {
+    "Origine IATA": "FRFQK",
+    "Origine": "LES CABANNES",
+    "Concaténation": "LES CABANNES ; FRFQK"
+  },
+  {
+    "Origine IATA": "FRGWE",
+    "Origine": "MONTBARD",
+    "Concaténation": "MONTBARD ; FRGWE"
+  },
+  {
+    "Origine IATA": "FRDOL",
+    "Origine": "DOL DE BRETAGNE",
+    "Concaténation": "DOL DE BRETAGNE ; FRDOL"
+  },
+  {
+    "Origine IATA": "FRXSB",
+    "Origine": "ST MALO",
+    "Concaténation": "ST MALO ; FRXSB"
+  },
+  {
+    "Origine IATA": "FRHPG",
+    "Origine": "LANDRY",
+    "Concaténation": "LANDRY ; FRHPG"
+  },
+  {
+    "Origine IATA": "FRQBM",
+    "Origine": "BOURG ST MAURICE",
+    "Concaténation": "BOURG ST MAURICE ; FRQBM"
+  },
+  {
+    "Origine IATA": "FRLSO",
+    "Origine": "LES SABLES D'OLONNE",
+    "Concaténation": "LES SABLES D'OLONNE ; FRLSO"
+  },
+  {
+    "Origine IATA": "FRLAI",
+    "Origine": "LANNION",
+    "Concaténation": "LANNION ; FRLAI"
+  },
+  {
+    "Origine IATA": "FRARM",
+    "Origine": "ARGELES SUR MER",
+    "Concaténation": "ARGELES SUR MER ; FRARM"
+  },
+  {
+    "Origine IATA": "FRCTY",
+    "Origine": "CASTELNAUDARY",
+    "Concaténation": "CASTELNAUDARY ; FRCTY"
+  },
+  {
+    "Origine IATA": "FRFUX",
+    "Origine": "LEZIGNAN-CORBIERES",
+    "Concaténation": "LEZIGNAN-CORBIERES ; FRFUX"
+  },
+  {
+    "Origine IATA": "FRILP",
+    "Origine": "PORT LA NOUVELLE",
+    "Concaténation": "PORT LA NOUVELLE ; FRILP"
+  },
+  {
+    "Origine IATA": "FRILQ",
+    "Origine": "LEUCATE LA FRANQUI",
+    "Concaténation": "LEUCATE LA FRANQUI ; FRILQ"
+  },
+  {
+    "Origine IATA": "FRFQG",
+    "Origine": "ANDORRE - L'HOSPITALET",
+    "Concaténation": "ANDORRE - L'HOSPITALET ; FRFQG"
+  },
+  {
+    "Origine IATA": "FRXFX",
+    "Origine": "FOIX",
+    "Concaténation": "FOIX ; FRXFX"
+  },
+  {
+    "Origine IATA": "FRLNE",
+    "Origine": "LUNEVILLE",
+    "Concaténation": "LUNEVILLE ; FRLNE"
+  },
+  {
+    "Origine IATA": "FRINH",
+    "Origine": "BANASSAC LA CANOURGUE",
+    "Concaténation": "BANASSAC LA CANOURGUE ; FRINH"
+  },
+  {
+    "Origine IATA": "FRHMY",
+    "Origine": "MASSIAC BLESLE",
+    "Concaténation": "MASSIAC BLESLE ; FRHMY"
+  },
+  {
+    "Origine IATA": "FRIMC",
+    "Origine": "CEILHES ROQUEREDONDE",
+    "Concaténation": "CEILHES ROQUEREDONDE ; FRIMC"
+  },
+  {
+    "Origine IATA": "FRLMR",
+    "Origine": "LE MONASTIER",
+    "Concaténation": "LE MONASTIER ; FRLMR"
+  },
+  {
+    "Origine IATA": "FRBFO",
+    "Origine": "VITRY LE FRANCOIS GARE",
+    "Concaténation": "VITRY LE FRANCOIS GARE ; FRBFO"
+  },
+  {
+    "Origine IATA": "ITTRS",
+    "Origine": "TORINO PORTA SUSA",
+    "Concaténation": "TORINO PORTA SUSA ; ITTRS"
+  },
+  {
+    "Origine IATA": "FRADJ",
+    "Origine": "LILLE (intramuros)",
+    "Concaténation": "LILLE (intramuros) ; FRADJ"
+  },
+  {
+    "Origine IATA": "FRABG",
+    "Origine": "BESANCON VIOTTE",
+    "Concaténation": "BESANCON VIOTTE ; FRABG"
+  },
+  {
+    "Origine IATA": "FRJEE",
+    "Origine": "LA BAULE ESCOUBLAC",
+    "Concaténation": "LA BAULE ESCOUBLAC ; FRJEE"
+  },
+  {
+    "Origine IATA": "FRXSQ",
+    "Origine": "SELESTAT",
+    "Concaténation": "SELESTAT ; FRXSQ"
+  },
+  {
+    "Origine IATA": "FRXHE",
+    "Origine": "HYERES",
+    "Concaténation": "HYERES ; FRXHE"
+  },
+  {
+    "Origine IATA": "FRIFP",
+    "Origine": "LUC EN DIOIS",
+    "Concaténation": "LUC EN DIOIS ; FRIFP"
+  },
+  {
+    "Origine IATA": "FRXLE",
+    "Origine": "LENS",
+    "Concaténation": "LENS ; FRXLE"
+  },
+  {
+    "Origine IATA": "FRXLR",
+    "Origine": "LIBOURNE",
+    "Concaténation": "LIBOURNE ; FRXLR"
+  },
+  {
+    "Origine IATA": "FRXSW",
+    "Origine": "SEDAN",
+    "Concaténation": "SEDAN ; FRXSW"
+  },
+  {
+    "Origine IATA": "FREPL",
+    "Origine": "EPINAL",
+    "Concaténation": "EPINAL ; FREPL"
+  },
+  {
+    "Origine IATA": "FRRNT",
+    "Origine": "REMIREMONT",
+    "Concaténation": "REMIREMONT ; FRRNT"
+  },
+  {
+    "Origine IATA": "FREGS",
+    "Origine": "LE POULIGUEN",
+    "Concaténation": "LE POULIGUEN ; FREGS"
+  },
+  {
+    "Origine IATA": "FRFQM",
+    "Origine": "TARASCON SUR ARIEGE",
+    "Concaténation": "TARASCON SUR ARIEGE ; FRFQM"
+  },
+  {
+    "Origine IATA": "FRHZK",
+    "Origine": "HAZEBROUCK",
+    "Concaténation": "HAZEBROUCK ; FRHZK"
+  },
+  {
+    "Origine IATA": "DESBK",
+    "Origine": "SARREBRUCK/SAARBRUECKEN",
+    "Concaténation": "SARREBRUCK/SAARBRUECKEN ; DESBK"
+  },
+  {
+    "Origine IATA": "FRPMS",
+    "Origine": "PAMIERS",
+    "Concaténation": "PAMIERS ; FRPMS"
+  },
+  {
+    "Origine IATA": "FRXLT",
+    "Origine": "AX LES THERMES",
+    "Concaténation": "AX LES THERMES ; FRXLT"
+  },
+  {
+    "Origine IATA": "FRIMH",
+    "Origine": "BEDARIEUX",
+    "Concaténation": "BEDARIEUX ; FRIMH"
+  },
+  {
+    "Origine IATA": "FRIMK",
+    "Origine": "MAGALAS",
+    "Concaténation": "MAGALAS ; FRIMK"
+  },
+  {
+    "Origine IATA": "FRXCR",
+    "Origine": "CHALONS EN CHAMPAGNE",
+    "Concaténation": "CHALONS EN CHAMPAGNE ; FRXCR"
+  },
+  {
+    "Origine IATA": "FRXTS",
+    "Origine": "THONON LES BAINS",
+    "Concaténation": "THONON LES BAINS ; FRXTS"
+  },
+  {
+    "Origine IATA": "DERSH",
+    "Origine": "RINGSHEIM/EU-PARK",
+    "Concaténation": "RINGSHEIM/EU-PARK ; DERSH"
+  },
+  {
+    "Origine IATA": "FRXBD",
+    "Origine": "BAR LE DUC",
+    "Concaténation": "BAR LE DUC ; FRXBD"
+  },
+  {
+    "Origine IATA": "FRIOG",
+    "Origine": "ELNE",
+    "Concaténation": "ELNE ; FRIOG"
+  },
+  {
+    "Origine IATA": "FRXCU",
+    "Origine": "COLLIOURE",
+    "Concaténation": "COLLIOURE ; FRXCU"
+  },
+  {
+    "Origine IATA": "FRADP",
+    "Origine": "ROUBAIX",
+    "Concaténation": "ROUBAIX ; FRADP"
+  },
+  {
+    "Origine IATA": "FRIOF",
+    "Origine": "RIVESALTES",
+    "Concaténation": "RIVESALTES ; FRIOF"
+  },
+  {
+    "Origine IATA": "FRXBU",
+    "Origine": "BANYULS SUR MER",
+    "Concaténation": "BANYULS SUR MER ; FRXBU"
+  },
+  {
+    "Origine IATA": "FRIHC",
+    "Origine": "L'ARGENTIERE LES ECRINS   (05)",
+    "Concaténation": "L'ARGENTIERE LES ECRINS   (05) ; FRIHC"
+  },
+  {
+    "Origine IATA": "FRCDC",
+    "Origine": "CAPDENAC",
+    "Concaténation": "CAPDENAC ; FRCDC"
+  },
+  {
+    "Origine IATA": "FRFSB",
+    "Origine": "GRAMAT",
+    "Concaténation": "GRAMAT ; FRFSB"
+  },
+  {
+    "Origine IATA": "FRFSQ",
+    "Origine": "AUBIN",
+    "Concaténation": "AUBIN ; FRFSQ"
+  },
+  {
+    "Origine IATA": "FRFSR",
+    "Origine": "CRANSAC",
+    "Concaténation": "CRANSAC ; FRFSR"
+  },
+  {
+    "Origine IATA": "FRFSA",
+    "Origine": "ROCAMADOUR PADIRAC",
+    "Concaténation": "ROCAMADOUR PADIRAC ; FRFSA"
+  },
+  {
+    "Origine IATA": "FRETA",
+    "Origine": "ETAPLES LE TOUQUET",
+    "Concaténation": "ETAPLES LE TOUQUET ; FRETA"
+  },
+  {
+    "Origine IATA": "FRXVS",
+    "Origine": "VALENCIENNES",
+    "Concaténation": "VALENCIENNES ; FRXVS"
+  },
+  {
+    "Origine IATA": "FRCRE",
+    "Origine": "CREST",
+    "Concaténation": "CREST ; FRCRE"
+  },
+  {
+    "Origine IATA": "FRXBC",
+    "Origine": "BRIANCON",
+    "Concaténation": "BRIANCON ; FRXBC"
+  },
+  {
+    "Origine IATA": "FRXGF",
+    "Origine": "ST GERVAIS LES BAINS LE FAYET",
+    "Concaténation": "ST GERVAIS LES BAINS LE FAYET ; FRXGF"
+  },
+  {
+    "Origine IATA": "FRXSN",
+    "Origine": "SALLANCHES COMBLOUX MEGEVE",
+    "Concaténation": "SALLANCHES COMBLOUX MEGEVE ; FRXSN"
+  },
+  {
+    "Origine IATA": "FRSNE",
+    "Origine": "SAVERNE",
+    "Concaténation": "SAVERNE ; FRSNE"
+  },
+  {
+    "Origine IATA": "FRHTZ",
+    "Origine": "CLUSES  74",
+    "Concaténation": "CLUSES  74 ; FRHTZ"
+  },
+  {
+    "Origine IATA": "FRCVU",
+    "Origine": "RANG DU FLIERS VERTON",
+    "Concaténation": "RANG DU FLIERS VERTON ; FRCVU"
+  },
+  {
+    "Origine IATA": "FRQNJ",
+    "Origine": "ANNEMASSE",
+    "Concaténation": "ANNEMASSE ; FRQNJ"
+  },
+  {
+    "Origine IATA": "FRHOJ",
+    "Origine": "ST AVRE LA CHAMBRE",
+    "Concaténation": "ST AVRE LA CHAMBRE ; FRHOJ"
+  },
+  {
+    "Origine IATA": "FRQMU",
+    "Origine": "MOUTIERS SALINS BRIDES L BAINS",
+    "Concaténation": "MOUTIERS SALINS BRIDES L BAINS ; FRQMU"
+  },
+  {
+    "Origine IATA": "FRAMA",
+    "Origine": "ALBI MADELEINE",
+    "Concaténation": "ALBI MADELEINE ; FRAMA"
+  },
+  {
+    "Origine IATA": "FRFWA",
+    "Origine": "CARMAUX",
+    "Concaténation": "CARMAUX ; FRFWA"
+  },
+  {
+    "Origine IATA": "FREFN",
+    "Origine": "ANCENIS",
+    "Concaténation": "ANCENIS ; FREFN"
+  },
+  {
+    "Origine IATA": "FRFIG",
+    "Origine": "FIGEAC",
+    "Concaténation": "FIGEAC ; FRFIG"
+  },
+  {
+    "Origine IATA": "FRADM",
+    "Origine": "TOURCOING",
+    "Concaténation": "TOURCOING ; FRADM"
+  },
+  {
+    "Origine IATA": "FRCKH",
+    "Origine": "CROIX WASQUEHAL",
+    "Concaténation": "CROIX WASQUEHAL ; FRCKH"
+  },
+  {
+    "Origine IATA": "FRSDM",
+    "Origine": "ST DENIS PRES MARTEL",
+    "Concaténation": "ST DENIS PRES MARTEL ; FRSDM"
+  },
+  {
+    "Origine IATA": "FRFQI",
+    "Origine": "LUZENAC GARANOU",
+    "Concaténation": "LUZENAC GARANOU ; FRFQI"
+  },
+  {
+    "Origine IATA": "FRXEB",
+    "Origine": "EVIAN LES BAINS",
+    "Concaténation": "EVIAN LES BAINS ; FRXEB"
+  },
+  {
+    "Origine IATA": "FRAFJ",
+    "Origine": "ALBI VILLE",
+    "Concaténation": "ALBI VILLE ; FRAFJ"
+  },
+  {
+    "Origine IATA": "FRIGS",
+    "Origine": "CHORGES",
+    "Concaténation": "CHORGES ; FRIGS"
+  },
+  {
+    "Origine IATA": "FRIGV",
+    "Origine": "EMBRUN",
+    "Concaténation": "EMBRUN ; FRIGV"
+  },
+  {
+    "Origine IATA": "FRXTE",
+    "Origine": "LATOUR DE CAROL ENVEITG",
+    "Concaténation": "LATOUR DE CAROL ENVEITG ; FRXTE"
+  },
+  {
+    "Origine IATA": "FRQAI",
+    "Origine": "AIME LA PLAGNE",
+    "Concaténation": "AIME LA PLAGNE ; FRQAI"
+  },
+  {
+    "Origine IATA": "FRGAT",
+    "Origine": "GAP",
+    "Concaténation": "GAP ; FRGAT"
+  },
+  {
+    "Origine IATA": "FRXAV",
+    "Origine": "ALBERTVILLE",
+    "Concaténation": "ALBERTVILLE ; FRXAV"
+  },
+  {
+    "Origine IATA": "FRDHT",
+    "Origine": "VERSAILLES CHANTIERS",
+    "Concaténation": "VERSAILLES CHANTIERS ; FRDHT"
+  },
+  {
+    "Origine IATA": "FRMPU",
+    "Origine": "MASSY PALAISEAU",
+    "Concaténation": "MASSY PALAISEAU ; FRMPU"
+  },
+  {
+    "Origine IATA": "FRAEZ",
+    "Origine": "LE HAVRE",
+    "Concaténation": "LE HAVRE ; FRAEZ"
+  },
+  {
+    "Origine IATA": "FRMTE",
+    "Origine": "MANTES LA JOLIE",
+    "Concaténation": "MANTES LA JOLIE ; FRMTE"
+  },
+  {
+    "Origine IATA": "FRURD",
+    "Origine": "ROUEN RIVE DROITE",
+    "Concaténation": "ROUEN RIVE DROITE ; FRURD"
+  }
+]
